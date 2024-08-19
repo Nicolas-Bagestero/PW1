@@ -1,0 +1,58 @@
+body{
+    
+    background-image: url(../images/fundo.jpg);
+    background-size: 10%;
+    margin: 0px;
+}
+
+a, h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: 	white;
+}
+
+.coluna1{
+    float:left;
+    width:33.33%;
+    background: black;
+}
+
+.coluna2{
+    float:left;
+    width:33.33%;
+    background: black;
+    height: 50px;
+}
+
+.link{
+    margin-top: 10px;
+    
+}
+
+.coluna3{
+    float:right;
+    width:33.33%;
+    background: black;
+    height: 50px;
+}
+
+.texto1{
+    background: darkred;
+    float: inline-end;
+    width: 100%;
+
+}
+
+.imagem{
+    float:left;
+    margin-left: 10px;
+    
+}
+
+.texto2 a{
+    float: left;
+    color: darkred;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
